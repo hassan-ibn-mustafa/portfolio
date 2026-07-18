@@ -105,8 +105,8 @@ export default function About() {
               {[
                 { icon: GraduationCap, text: PERSONAL.education },
                 { icon: MapPin, text: PERSONAL.location },
-                { icon: Users, text: 'Member, Faculty Student Union' },
-                { icon: BookOpen, text: 'Active component library contributor — KiCad' },
+                { icon: Users, text: 'Vice President, Faculty Student Union' },
+                //{ icon: BookOpen, text: 'Active component library contributor — KiCad' },
               ].map(({ icon: Icon, text }, i) => (
                 <div key={i} className="flex items-start gap-3">
                   <div className="mt-0.5 w-7 h-7 rounded-md bg-crimson/10 border border-crimson/20 flex-shrink-0 flex items-center justify-center">
