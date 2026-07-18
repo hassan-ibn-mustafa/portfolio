@@ -15,7 +15,7 @@ export const PERSONAL = {
   bio: `Industrial Electronics & Control Engineering student at the Faculty of Electronic Engineering, Menouf. I build things that bridge hardware and intelligence — from custom PCBs and ESP32-based control boards to PLC programs and variable frequency drives. I'm passionate about turning complex industrial problems into precise, reliable engineering solutions.`,
   education: 'B.Sc. Industrial Electronics & Control Engineering — Faculty of Electronic Engineering, Menouf',
   linkedin: 'https://linkedin.com/in/hassan-ibn-mustafa',
-  github: 'https://github.com/your-username',
+  github: 'https://github.com/hassan-ibn-mustafa',
   email: 'hassan.ibn.mustafa@gmail.com',
   cvUrl: 'https://drive.google.com/file/d/1M1YwdVPPr4W7LcgjgvCZoesgR8zODp2z/view?usp=drive_link', // link to your CV PDF
   location: 'Egypt',
