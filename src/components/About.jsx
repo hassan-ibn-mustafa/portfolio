@@ -3,9 +3,9 @@ import { GraduationCap, MapPin, Users, BookOpen } from 'lucide-react'
 import { PERSONAL } from '../data/staticData'
 
 const STATS = [
-  { value: '5+', label: 'Engineering Projects' },
-  { value: '3', label: 'PCB Designs' },
-  { value: '2+', label: 'Years Experience' },
+  { value: '10+', label: 'Engineering Projects' },
+  { value: '3+', label: 'PCB Designs' },
+  { value: '3 Years', label: 'Leadership Roles' },
   { value: '8+', label: 'Certifications' },
 ]
 
