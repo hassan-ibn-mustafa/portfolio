@@ -382,7 +382,7 @@ export default function AdminDashboard() {
             <span className="font-mono text-xs text-slate-muted/40 hidden sm:inline">· Content Manager</span>
           </div>
           <div className="flex items-center gap-2">
-            <a href="/" target="_blank" rel="noopener noreferrer" className="btn-secondary py-1.5 px-3 text-xs">
+            <a href="https://hassan-ibn-mustafa.github.io/portfolio/" target="_blank" rel="noopener noreferrer" className="btn-secondary py-1.5 px-3 text-xs">
               <LayoutGrid size={13} /> View Site
             </a>
             <button onClick={handleLogout} className="btn-secondary py-1.5 px-3 text-xs">
