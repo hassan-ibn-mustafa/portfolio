@@ -14,7 +14,13 @@ export const PERSONAL = {
     'PCB Design',
   ],
 
-  bio: `Industrial Electronics & Control Systems Engineering student passionate about hardware engineering, embedded systems, and industrial automation. I enjoy turning engineering concepts into practical projects—from PCB design and microcontrollers to PLCs, motor control, and industrial systems. Currently focused on building strong practical skills and creating real-world engineering projects.`,
+  bio: `Hey, I'm Hassan. An Industrial Electronics & Control Engineering student passionate about turning complex hardware concepts into reliable reality.
+​What I do:
+
+​Industrial Automation: PLC programming, VFDs, motor drives, and control systems.
+​Hardware & Embedded: Schematic design, multi-layer PCB layout, and microcontroller firmware.
+
+​Driven by hands-on execution and robust engineering. Check out my featured work below.`,
 
   education: 'B.Sc. Industrial Electronics & Control Engineering — Faculty of Electronic Engineering, Menouf',
   linkedin: 'https://linkedin.com/in/hassan-ibn-mustafa',
