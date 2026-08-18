@@ -4,15 +4,18 @@
 
 export const PERSONAL = {
   name: 'Hassan',
-  role: 'Industrial Automation & Electronics Engineer',
+  role: 'Industrial Automation & Hardware design Engineer',
   taglines: [
-    'PLC & Embedded Systems',
-    'PCB Design & Prototyping',
-    'Industrial Control Systems',
+    'Industrial Electronics & Control Systems',
+    'Industrial Automation',
+    'Industry V4.0',
+    'PLC Programming',
     'Motor Drive Engineering',
-    'IoT & Automation',
+    'PCB Design',
   ],
-  bio: `Industrial Electronics & Control Engineering student at the Faculty of Electronic Engineering, Menouf. I build things that bridge hardware and intelligence — from custom PCBs and ESP32-based control boards to PLC programs and variable frequency drives. I'm passionate about turning complex industrial problems into precise, reliable engineering solutions.`,
+
+  bio: `Industrial Electronics & Control Systems Engineering student passionate about hardware engineering, embedded systems, and industrial automation. I enjoy turning engineering concepts into practical projects—from PCB design and microcontrollers to PLCs, motor control, and industrial systems. Currently focused on building strong practical skills and creating real-world engineering projects.`,
+
   education: 'B.Sc. Industrial Electronics & Control Engineering — Faculty of Electronic Engineering, Menouf',
   linkedin: 'https://linkedin.com/in/hassan-ibn-mustafa',
   github: 'https://github.com/hassan-ibn-mustafa',
